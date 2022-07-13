@@ -2,7 +2,7 @@
 
 ## Puppeteer
 
-Puppeteer is a Node library maintained by Google, it provides a high-level API to control headless and non-headless Chrome/Chromium over the DevTools Protocol. This makes Puppeteer a perfect tool programmers and testers, allowing them to use it for web UI testing, E2E testing, web crawling and automation of actions such as form submission, keyboard input or page screenshotting.
+Puppeteer is a Node library maintained by Google, it provides a high-level API to control headless and non-headless Chrome/Chromium over the DevTools Protocol. This makes Puppeteer a perfect tool for programmers and testers, allowing them to use it for web UI testing, E2E testing, web crawling and automation of actions such as form submission, keyboard input or page screenshotting.
 
 With few lines of code, you can control a Chrome browser and do almost all the operations that a user would do manually. However, with great power comes great oposition, and this meme also applies to web crawling. A lot of large website owners (Amazon, GoDaddy) have implemented countermeasures against malicious crawlers. If you are not careful and they notice something suspecious, such as that somebody had traversed the whole website in seconds, you can get your IP banned from ever accessing their domain.
 
