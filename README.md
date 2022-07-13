@@ -167,6 +167,6 @@ Next webpage should display our fake URL provided by the Tor circuit and other f
 
 
 
-## [Github repository](https://github.com/TOA-Anakin)
+## [Github repository](https://github.com/TOA-Anakin/puppeteer-tor)
 
 Happy testing!
